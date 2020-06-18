@@ -1,29 +1,64 @@
+
+
 .header {
   padding: 20px;
   text-align: center;
   background: #f3fe7e;
   color: #222831;
   font-size: 30px;
+  opacity: 0.5;
 }
+
 .title {
   padding: 20px;
   text-align: center;
   background: #757575;
   color: #f3fe7e;
-  font-size: 30px;
+  font-size: 40px;
 }
 
 .photo {
-  padding: 20px;
-  text-align: center;
-  background: #979797;
-  color: #204051;
+  background: #f3fe7e;
+  align-content: center;
 }
 
 .title {
   padding: 20px;
   text-align: center;
-  background: #f3fe7e;
+  background: #f8fab8;
   color: #222831;
   font-size: 30px;
 }
+
+.table {
+  padding: 20px;
+  background: #f8fab8;
+  color: #222831;
+  font-size: 20px;
+  border-width: 2px;
+  border-color: #757575;
+}
+
+.about {
+	padding 20px;
+	text-align: center;
+	background: #f3fe7e;
+	color: #204051;
+	font size: 20px;
+	font-weight: normal;
+	font-style: italic;
+}
+
+.hobbies {
+	padding: 20px;
+	background: #f8fab8;
+	color: #222831;
+	font size: 15px;
+}
+
+
+
+
+
+
+
