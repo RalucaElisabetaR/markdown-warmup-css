@@ -1,0 +1,29 @@
+.header {
+  padding: 20px;
+  text-align: center;
+  background: #f3fe7e;
+  color: #222831;
+  font-size: 30px;
+}
+.title {
+  padding: 20px;
+  text-align: center;
+  background: #757575;
+  color: #f3fe7e;
+  font-size: 30px;
+}
+
+.photo {
+  padding: 20px;
+  text-align: center;
+  background: #979797;
+  color: #204051;
+}
+
+.title {
+  padding: 20px;
+  text-align: center;
+  background: #f3fe7e;
+  color: #222831;
+  font-size: 30px;
+}
