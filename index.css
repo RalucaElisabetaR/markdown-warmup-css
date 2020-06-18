@@ -1,4 +1,18 @@
 
+.myname {
+	padding: 20px;
+  	text-align: center;
+ 	background: #979797;
+ 	color: #f3fe7e;
+ 	font-size: 30px; 
+}
+
+.title {
+	padding: 20px;
+ 	 background: #979797;
+ 	 color: #f3fe7e;
+ 	 font-size: 25px;
+}
 
 .header {
   padding: 20px;
@@ -9,19 +23,18 @@
   opacity: 0.5;
 }
 
-.title {
+.footer {
   padding: 20px;
   text-align: center;
-  background: #757575;
+  background: #979797;
   color: #f3fe7e;
   font-size: 40px;
 }
 
 .photo {
-  background: white;
+  background: #979797;
   align-content: center;
-  border-right: 20%;
-  border left: 20%;
+  text-align: center;
 }
 
 .header {
@@ -29,7 +42,7 @@
   text-align: center;
   background: #f8fab8;
   color: #222831;
-  font-size: 30px;
+  font-size: 20px;
 }
 
 .table {
@@ -39,6 +52,7 @@
   font-size: 20px;
   border-width: 2px;
   border-color: #757575;
+  align-items: center;
 }
 
 .about {
@@ -58,9 +72,50 @@
 	font size: 15px;
 }
 
+table {
+  border-collapse: collapse;
+}
 
+table, th, td {
+  border: 1px solid black; 
+  text-align: center;
+}
+td {
+  height: 50px;
+  vertical-align: center;
+  width: 100%;
+  text-align: center;
+}
+th {
+  height: 50px;
+  vertical-align: center;
+  width: 55%;
+  text-align: center;
 
+.border {
+	border: 10px;
+	color: #204051;
+	background: #f6f4e6
+	
+}
+.text1 {background: #f6f4e6
 
+}
 
+.myname {
+	padding: 20px;
+  	text-align: center;
+ 	 background: #979797;
+ 	 color: #f3fe7e;
+ 	 font-size: 30px; 
+}
 
+.title {
+	padding: 20px;
+ 	 background: #979797;
+ 	 color: #f3fe7e;
+ 	 font-size: 25px;
+}
+
+table align-items center
 
