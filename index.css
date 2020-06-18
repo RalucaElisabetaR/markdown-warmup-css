@@ -18,11 +18,13 @@
 }
 
 .photo {
-  background: #f3fe7e;
+  background: white;
   align-content: center;
+  border-right: 20%;
+  border left: 20%;
 }
 
-.title {
+.header {
   padding: 20px;
   text-align: center;
   background: #f8fab8;
@@ -49,7 +51,7 @@
 	font-style: italic;
 }
 
-.hobbies {
+.title1 {
 	padding: 20px;
 	background: #f8fab8;
 	color: #222831;
